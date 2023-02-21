@@ -11,6 +11,7 @@ For our purposes, an Author has many Articles, a Magazine has many Articles, and
 The magazine domain has three model class inputs: Author, Article, Magazine and their methods. Which are then supposed to output the data required by the user.
 
 ## pseudo code
+START
 1. Install the gem files
 bundler init
 
@@ -21,6 +22,8 @@ gem install pry
 gem install require_all
 
 gem install require
+
+2. Create class methods that will specify inputs
 
 
 
