@@ -2,6 +2,7 @@
 author1 = Author.new("Kenney")
 author2 = Author.new("mikel arteta")
 author3 = Author.new("kenney rodgers")
+author4 = Author.new("mikel rodgers")
 
 magazine1 = Magazine.new("Standard", "news")
 magazine2 = Magazine.new("manjesta", "transport")
