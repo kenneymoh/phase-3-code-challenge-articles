@@ -1,5 +1,5 @@
 require 'bundler/setup'
 Bundler.require
-require_relative '../lib/article'
-require_relative '../lib/author'
-require_relative '../lib/magazine'
+require_relative '../lib/Articles'
+require_relative '../lib/Author'
+require_relative '../lib/Magazine'
